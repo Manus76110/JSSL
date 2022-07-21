@@ -1,6 +1,10 @@
+import Header from "../Header";
+// Styles
+
+
 function App() {
-  return(
-    <div> HELLO !! </div>
+  return (
+   <Header />
   )
 }
 export default App;
